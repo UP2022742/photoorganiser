@@ -8,4 +8,10 @@ Organises photos into folders based on their date of creation. The script will a
 Have not tested on Linux, this will likely have issues with Ubuntu but it should be a simply fix once I get time. Only Windows tested for now.
 
 # Usage
-Install Pillow through PIP. Go to your commandline and do "pip install pillow". Now that's basically it. Put the script inside the directory with all your photos and run it.
+You can either run the application manually by cloning the git and installing the package
+- Pillow
+by doing 
+$ pip install pillow
+
+Otherwise you can simply use the EXE file for windows. 
+Now that's basically it. Put the script inside the directory with all your photos and run it.
