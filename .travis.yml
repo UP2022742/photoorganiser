@@ -1,5 +1,6 @@
 language: python
-go: 
+os: windows
+python: 
   - "3.8.x"
 install: 
   - pip install -r requirements.txt
